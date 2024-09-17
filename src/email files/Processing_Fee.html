@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Processing Fee</title>
+  <style>
+    body { font-family: 'Verdana', sans-serif; background-color: #eef2f3; padding: 30px; }
+    .wrapper { max-width: 600px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 8px; }
+    h1 { font-size: 24px; color: #2b2b2b; }
+    p { font-size: 14px; color: #555; }
+    .highlight { color: #ff2e2e; }
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <h1>{{%head%}}</h1>
+    <p>Hi {{%name%}},</p>
+    <p>We wanted to let you know that a processing fee of <span class="highlight">${{%cl%}}</span> was added to your transaction for {{%event%}} on {{%date%}}.</p>
+    <p>This fee covers the costs of securely processing your payment.</p>
+    <p>Transaction Reference: {{%sent%}}</p>
+    <p>Regards,<br>Ticketmaster Support</p>
+  </div>
+</body>
+</html>

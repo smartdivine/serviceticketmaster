@@ -1,0 +1,29 @@
+/* carouselStyles.css */
+
+/* Active dot */
+.carousel .control-dots .dot.selected {
+    background-color: rgb(51, 51, 51, .85) !important;
+}
+
+/* Inactive dots */
+.carousel .control-dots .dot {
+    background-color: grey;
+    box-shadow: none !important;
+    margin: 0px 0 0 10px !important;
+    transform: translateY(-10px);
+}
+/* carouselStyles.css */
+
+
+  
+  .custom-carousel .slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;  /* Ensure no padding between slides */
+  }
+  
+
+  
+  
+  

@@ -1,0 +1,13 @@
+/* carouselStyles.css */
+
+/* Active dot */
+.carousel1 .control-dots .dot.selected {
+    background-color: #026bde !important;
+}
+
+/* Inactive dots */
+.carousel1 .control-dots .dot {
+    background-color: gray;
+    box-shadow: none !important;
+    margin: 0 0 0 10px !important;
+}
