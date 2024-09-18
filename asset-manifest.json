@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ticketmaster/static/css/main.97ad1916.css",
-    "main.js": "/ticketmaster/static/js/main.e553fcaf.js",
+    "main.js": "/ticketmaster/static/js/main.afb2bc32.js",
     "static/css/767.d0e61a95.chunk.css": "/ticketmaster/static/css/767.d0e61a95.chunk.css",
     "static/js/767.13086d8d.chunk.js": "/ticketmaster/static/js/767.13086d8d.chunk.js",
     "static/js/127.9090f263.chunk.js": "/ticketmaster/static/js/127.9090f263.chunk.js",
@@ -84,7 +84,7 @@
     "static/media/slick.woff": "/ticketmaster/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ticketmaster/index.html",
     "main.97ad1916.css.map": "/ticketmaster/static/css/main.97ad1916.css.map",
-    "main.e553fcaf.js.map": "/ticketmaster/static/js/main.e553fcaf.js.map",
+    "main.afb2bc32.js.map": "/ticketmaster/static/js/main.afb2bc32.js.map",
     "767.d0e61a95.chunk.css.map": "/ticketmaster/static/css/767.d0e61a95.chunk.css.map",
     "767.13086d8d.chunk.js.map": "/ticketmaster/static/js/767.13086d8d.chunk.js.map",
     "127.9090f263.chunk.js.map": "/ticketmaster/static/js/127.9090f263.chunk.js.map",
@@ -120,6 +120,6 @@
   },
   "entrypoints": [
     "static/css/main.97ad1916.css",
-    "static/js/main.e553fcaf.js"
+    "static/js/main.afb2bc32.js"
   ]
 }
